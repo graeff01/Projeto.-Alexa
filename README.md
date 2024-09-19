@@ -1,6 +1,6 @@
 # Projeto Alexa
 
-h3Projeto inspirado na assistente virtual 'Alexa' da Amazon.*
+Projeto inspirado na assistente virtual 'Alexa' da Amazon.
 -
 # *API's Consumidas:*
     API_KEY_CLIMA;
